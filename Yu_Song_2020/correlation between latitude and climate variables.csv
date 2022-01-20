@@ -1,0 +1,33 @@
+Climate type,r,p-value
+Mean Temperature of Coldest Quarter,-0.188,0.0006405197511171458
+Mean Temperature of Warmest Quarter,-0.23,2.571236569705944e-05
+Max Temperature of Warmest Month,0.042,0.4501569001597562
+Min Temperature of Coldest Month,0.407,1.6584101246535016e-14
+Mean Temperature of Wettest Quarter,-0.071,0.19987225977954393
+Mean Temperature of Driest Quarter,-0.005,0.934318351472485
+Maximum temperature average within growing season,-0.372,3.761834072467908e-12
+Minimum temperature average within growing season,-0.153,0.005410791008321588
+Maximum Temperature of January,-0.64,4.124887129214215e-39
+Maximum Temperature of October,-0.786,6.219156121645872e-70
+Maximum Temperature of November,-0.716,1.117056663842877e-52
+Maximum Temperature of December,-0.672,2.392781169630383e-44
+Maximum Temperature of Februrary,-0.706,1.1042390157967012e-50
+Maximum Temperature of March,-0.73,1.0851728639488407e-55
+Maximum Temperature of April,-0.732,4.635691001917841e-56
+Maximum Temperature of May,-0.551,2.0853594225364998e-27
+Maximum Temperature of June,-0.606,3.340260265680368e-34
+Maximum Temperature of July,-0.73,1.4036663668777822e-55
+Maximum Temperature of August,-0.787,4.310418792426452e-70
+Maximum Temperature of September,-0.832,4.4521444244501347e-85
+Minimum Temperature of January,-0.489,4.3988199354691024e-21
+Minimum Temperature of October,-0.512,3.108469934079304e-23
+Minimum Temperature of November,-0.498,6.81126353298122e-22
+Minimum Temperature of December,-0.426,7.774632801874705e-16
+Minimum Temperature of Februrary,-0.527,8.45475939035677e-25
+Minimum Temperature of March,-0.551,2.607249786417329e-27
+Minimum Temperature of April,-0.563,9.947521540740287e-29
+Minimum Temperature of May,-0.436,1.4256629151946549e-16
+Minimum Temperature of June,-0.383,6.803731045933899e-13
+Minimum Temperature of July,-0.467,3.9091874936779007e-19
+Minimum Temperature of August,-0.557,4.569628510461325e-28
+Minimum Temperature of September,-0.586,1.454885275420825e-31

@@ -1,0 +1,12 @@
+Summary of Experimental Setup 
+ TRIM cell info... 
+ 	 Cell type = small
+ 	 Diameter = 6.175 [cm] 
+ 	 Height = 6.597 [cm]
+ Soil sample info... 
+ 	 Total Dry Mass (Ms) = 170.0 [gr.] 
+ 	 Specific Gravity (Gs) = 2.7 [gr./gr.] 
+ 	 Height (H) = 3.36 [cm] 
+ 	 Dry Density (rho) = 1.69 [gr./cm^3] 
+ 	 Porosity (n) = 0.374
+ 	 Mass of H2O to Saturate (Mw) = 37.39 [gr.]
